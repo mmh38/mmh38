@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmh38" alt="mmh38" /></a> </p>
 
-- 🔭 I’m currently working on **data-driven approaches like to predict flow around airfoils with wedge tail sections**
+- 🔭 I’m currently working on **data-driven approaches to predict flow around airfoils with wedge tail sections**
 
 - 🌱 I’m currently learning **Pytorch, OpenFoam**
 
