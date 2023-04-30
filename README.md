@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **data-driven approaches to predict flow around airfoils with wedge tail sections**
 
-- 🌱 I’m currently learning **Pytorch, OpenFoam**
+- 🌱 I’m currently learning **OpenFoam**
 
 - 👨‍💻 All of my projects are available at [Personal Website](https://mmh38.github.io/)
 
